@@ -25,16 +25,6 @@ This shows the real power of Python beyond scripts.
 - 🧮 Determinant Calculation  
 - 🔄 Inverse of a Matrix  
 - 🖥️ Clean and simple GUI  
-## 🖼️ Application Screenshots
-
-### Main Application Interface
-![Main UI](screenshots/ui-main.png)
-
-### Matrix Operation – Output Example 1
-![Output 1](screenshots/ui-output-1.png)
-
-### Matrix Operation – Output Example 2
-![Output 2](screenshots/ui-output-2.png)
 
 ---
 
