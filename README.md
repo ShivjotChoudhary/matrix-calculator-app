@@ -26,6 +26,8 @@ This shows the real power of Python beyond scripts.
 - 🔄 Inverse of a Matrix  
 - 🖥️ Clean and simple GUI  
 
+> UI screenshots are available in the `screenshots/` folder.
+
 ---
 
 ## 🛠️ Tech Stack
