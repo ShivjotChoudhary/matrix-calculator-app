@@ -18,7 +18,7 @@ root.configure(bg=BG)
 root.resizable(False, False)
 
 # -------------------- TITLE --------------------
-tk.Label(
+tk.Label( 
     root,
     text="Matrix Calculator",
     font=("Segoe UI", 22, "bold"),
