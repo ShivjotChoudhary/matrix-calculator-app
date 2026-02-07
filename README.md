@@ -62,3 +62,46 @@ This shows the real power of Python beyond scripts.
 
 👉 Go to the **Releases** section of this repository and download:
 
+Unzip it to get `Matrix Calculator.app`.
+
+---
+
+## 🔐 macOS Security Notice (Important)
+
+⚠️ This application is a **student project** and is **not signed with an Apple Developer ID**.
+
+Because of this, macOS may block the app on first launch.  
+This is **normal and expected behavior**.
+
+### ✅ How to open the app on macOS (Working Method)
+
+1. Download the app from **Releases**
+2. Unzip the file
+3. Try opening the app once (it will be blocked)
+4. Go to **System Settings → Privacy & Security**
+5. Scroll down and click **Open Anyway**
+6. Confirm **Open**
+
+✔️ After this, the app will open normally every time.
+
+---
+
+## 🎓 Learning Outcome
+
+- Learned how **NumPy logic** can be used in real applications  
+- Understood how Python GUI apps are built using **Tkinter**  
+- Learned how to package Python programs into **desktop applications**  
+- Realized that **traditional app development is not always required** to build apps
+
+---
+
+## 👨‍💻 Author
+
+**Shivjot Choudhary**
+
+---
+
+## ⭐ Final Note
+
+> *“This project shows how a simple NumPy program can evolve into a real desktop application using Python.”*
+
