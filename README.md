@@ -62,7 +62,10 @@ This shows the real power of Python beyond scripts.
 
 👉 Go to the **Releases** section of this repository and download:
 
+`Matrix-Calculator-macOS.app.zip`
+
 Unzip it to get `Matrix Calculator.app`.
+
 
 ---
 
